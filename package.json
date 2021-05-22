@@ -1,0 +1,22 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannan7/js-test.git"
+  },
+  "author": "Mohammed Abdul Mannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannan7/js-test/issues"
+  },
+  "homepage": "https://github.com/mannan7/js-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
